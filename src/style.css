@@ -8,3 +8,7 @@ h1{
         line-height: 48px;
         margin: 20px 0 10px
 }
+.Weather {
+    margin: 10px 0;
+    width: 50px;
+}
