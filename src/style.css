@@ -106,3 +106,20 @@ cursor: default;
     margin-right: calc(var(--bs-gutter-x)*-.5);
     margin-top: calc(var(--bs-gutter-y)*-1);
 }
+.weather-forecast{
+    margin-top: 20px;
+    text-align: center;
+}
+.weather-forecast-date{
+    color: rgba(39, 33, 66, .4);
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+}
+.weather-forecast-temperatures{
+    font-size: 18px;
+    color: #f65282;
+}
+.weather-forecast-temperature-min{
+    opacity: 0.6;
+}
