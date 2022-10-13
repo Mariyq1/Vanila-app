@@ -111,3 +111,15 @@ cursor: default;
 .weather-forecast-temperature-min{
     opacity: 0.6;
 }
+.weather-forecast{
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.clearfix.weather-temperature{
+    margin-top: 0px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 360px;
+}
